@@ -1,4 +1,4 @@
-# Gemma fine tuning web platform
+# Facet -- Bringing out Gemma's best facet
 
 A full stack solution to manage fine tuning workflows of Gemma3 family of multimodal models for text, vision, audio modalities and various task & domain adaptations. Powered by Google Cloud Platform (GCP), accessible through our intuitive, no-code web UI and easily deployable on your own cloud project.
 
