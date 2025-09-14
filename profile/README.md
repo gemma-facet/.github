@@ -1,9 +1,11 @@
-# Facet -- Bringing out Gemma's best facet
+# Facet AI -- Bringing out Gemma's best facet
 
-A full stack solution to manage fine tuning workflows of Gemma3 family of multimodal models. From dataset formatting to deployment, our platform lets you customize Gemma models without writing a single line of code and with our beginner-friendly GUI and documentation tutorial. Whether you're a complete beginner to LLM fine tuning, or experienced engineer looking to streamline and centralize your existing fine tuning workflows, Facet AI is your solution.
+A full stack solution to manage fine tuning workflows of Gemma3 family of multimodal models. From dataset formatting to deployment, our platform lets you customize Gemma models without writing a single line of code and with our beginner-friendly GUI and documentation tutorial. 
 
-- [Get started with our web platform]()
-- [Read our beginner-friendly docs and watch our video tutorials]()
+Whether you're a complete beginner to LLM fine tuning, or experienced engineer looking to streamline and centralize your existing fine tuning workflows, Facet AI is your solution.
+
+- [Get started with our web platform](http://gemma-facet.vercel.app)
+- [Read our beginner-friendly docs and watch our video tutorials](https://facetai.mintlify.app/)
 
 ## Highlights
 
@@ -20,9 +22,11 @@ At Facet AI, we're on a journey to democratize small language model (SLM) fine-t
 
 ## Authors
 
-This project was built by Jet Chiang and Adarsh Dubey, two students developers from Canada and India, during the Google Summer of Code program in summer 2025. We would like to thank our organisation, Google DeepMind, our mentor, and the team at Google Cloud and Gemma for their continuous support throughout the term.
+This project was built by [Jet Chiang](https://www.linkedin.com/in/jet-chiang/) and [Adarsh Dubey](https://www.linkedin.com/in/dubeyadarsh/), two students developers from Canada and India, during the Google Summer of Code program in summer 2025. We would like to thank our organisation, Google DeepMind, our mentor, and the team at Google Cloud and Gemma for their continuous support throughout the term.
 
-We also acknoweldge the team at transformers, TRL, Unsloth, vLLM, and more open source libraries that power our project.
+We also acknoweldge the team at transformers, TRL, Unsloth, vLLM, and much more open-source libraries that power our project. Facet AI would not exist without these amazing open-source AI communities.
+
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/8cd2fa8a-9efe-44fb-858c-de6757a1438b" />
 
 ## Contributing
 
