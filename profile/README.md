@@ -1,20 +1,23 @@
 # Facet AI -- Bringing out Gemma's best facet
 
-A full stack solution to manage fine tuning workflows of Gemma3 family of multimodal models. From dataset formatting to deployment, our platform lets you customize Gemma models without writing a single line of code and with our beginner-friendly GUI and documentation tutorial. 
+A streamlined, customizable, no-code web platform to manage fine-tuning workflows of DeepMind's Gemma 3 family of multimodal models. From dataset formatting to deployment, Facet AI lets you focus on what matters for your use case, not writing boilerplate code and scrolling through pages of documentations and cookbook.
 
-Whether you're a complete beginner to LLM fine tuning, or experienced engineer looking to streamline and centralize your existing fine tuning workflows, Facet AI is your solution.
+Whether you're a complete beginner to LLM fine tuning, or experienced engineer looking to build a platform for your team, Facet AI is here to democratize SLM fine-tuning for everyone.
 
-- [Get started with our web platform](http://gemma-facet.vercel.app)
+- [Create your account and start now with our web platform](http://gemma-facet.vercel.app)
 - [Read our beginner-friendly docs and watch our video tutorials](https://facetai.mintlify.app/)
+
+Watch our demo video!! 👇👇
+
+[![Demo Video](https://img.youtube.com/vi/JGnzoLSZReI/0.jpg)](https://www.youtube.com/watch?v=JGnzoLSZReI)
 
 ## Highlights
 
-[![Demo Video](https://img.youtube.com/vi/r4jW997KXvc/0.jpg)](https://www.youtube.com/watch?v=r4jW997KXvc)
-
-- Powered by Google Cloud Platform (GCP), 100% open source and free to use
+- Powered by Google Cloud Platform (GCP), 100% open source and free to use!
 - For personal users, access our service through our no-code intuitive web interface to start training models in minutes
 - For production and enterprise, easily deploy the entire platform on your cloud project with our Terraform IaC
-- Supports local + huggingface datasets, all Gemma3 models, SFT + RL (GRPO, DPO, ORPO) training, evaluation, export to Ollama / llama.cpp / vLLM / SGLang and more
+- Supports local + huggingface datasets, all Gemma 3 & 3n models (from 270M to 27B), SFT + RL (GRPO, DPO, ORPO) post-training, evaluation + benchmarks, export to deploy on Ollama / llama.cpp / vLLM / SGLang and more
+- Production-ready, robust, and centralized for your team to collaborate, unlike your pile of Colab notebooks
 
 ## Background
 
@@ -30,5 +33,5 @@ We also acknoweldge the team at transformers, TRL, Unsloth, vLLM, and much more 
 
 ## Contributing
 
-We welcome contributions!! Refer to CONTRIBUTING.md and DEVELOPMENT.md in each sub-directory that you wish to contribute to!
+We welcome contributions!! Refer to CONTRIBUTING.md in each sub-directory that you wish to contribute to.
 
