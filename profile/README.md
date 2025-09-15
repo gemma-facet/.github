@@ -29,7 +29,10 @@ This project was built by [Jet Chiang](https://www.linkedin.com/in/jet-chiang/) 
 
 We also acknoweldge the team at transformers, TRL, Unsloth, vLLM, and much more open-source libraries that power our project. Facet AI would not exist without these amazing open-source AI communities.
 
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/8cd2fa8a-9efe-44fb-858c-de6757a1438b" />
+<!-- <img width="100%" alt="image" src="https://github.com/user-attachments/assets/8cd2fa8a-9efe-44fb-858c-de6757a1438b" /> -->
+
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/53ac856a-aa60-4ea7-a21a-8daa94cb69ca" />
+
 
 ## Contributing
 
