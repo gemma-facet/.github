@@ -11,13 +11,17 @@ Watch our demo video!! 👇👇
 
 [![Demo Video](https://img.youtube.com/vi/JGnzoLSZReI/0.jpg)](https://www.youtube.com/watch?v=JGnzoLSZReI)
 
+## Getting Started
+
+- For personal users, access our service through our no-code intuitive web interface to start training models in minutes
+- For production and enterprise, easily deploy the entire platform on your cloud project with our Terraform IaC
+
 ## Highlights
 
 - Powered by Google Cloud Platform (GCP), 100% open source and free to use!
-- For personal users, access our service through our no-code intuitive web interface to start training models in minutes
-- For production and enterprise, easily deploy the entire platform on your cloud project with our Terraform IaC
 - Supports local + huggingface datasets, all Gemma 3 & 3n models (from 270M to 27B), SFT + RL (GRPO, DPO, ORPO) post-training, evaluation + benchmarks, export to deploy on Ollama / llama.cpp / vLLM / SGLang and more
 - Production-ready, robust, and centralized for your team to collaborate, unlike your pile of Colab notebooks
+- Highly integrated with HuggingFace ecosystem -- `hub, datasets, transformers, trackio, evaluate, lighteval, trl, peft, bitsandbytes`
 
 ## Background
 
